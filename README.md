@@ -1,14 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sergio Méndez </h1>
 <h3 align="center">DevOps Engineer | Linkerd Hero | Cloud Native Professor </h3>
-<p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
 
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 ### I little bit about me 🙃
 
@@ -27,16 +29,6 @@
 🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
 🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8).
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
 ### Repos that you can check and contribute on my account 🧞‍
 
