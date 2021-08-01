@@ -15,6 +15,23 @@
 🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
 🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8).
 
+### Repos that you can check and contribute on my account 🧞‍
+
+| Repo  | Description |
+| ------------- | ------------- |
+| [DevCon2021ChaosMeshLinkerdIntro](https://github.com/sergioarmgpl/DevCon2021ChaosMeshLinkerdIntro)  | Linkerd + Chaos Mesh Intro, DevCon2021, China |
+| [operating-systems-usac-course](https://github.com/sergioarmgpl/operating-systems-usac-course)  | Operating System Course Content, Projects, Code Snippets and a lot of Kubernetes, Linkerd, Chaos Mesh, gRPC, Kafka, and other tutorials  |
+| [linkerd-openfaas-kubeconeu-2020](https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020)  | Code and Slides from KubeConEU 2021 about using Kubernetes, OpenFaaS and Linkerd for canary deployments |
+| [mlops-argo-k3s](https://github.com/sergioarmgpl/mlops-argo-k3s)  | ode and Slides from KubeConEU 2021 about using K3s and Argo for MLOps and sandbox environments |
+| [jaeger1.16-python-flask-envoy-k8s](https://github.com/sergioarmgpl/jaeger1.16-python-flask-envoy-k8s
+)  | Workshop to use Jaeger for Tracing using Python, OpenTelemetry, Prometheus on Kubernetes |
+| [taller-docker](https://github.com/sergioarmgpl/taller-docker)  | Docker Workshop in spanish and english |
+| [containerd-workshop](https://github.com/sergioarmgpl/containerd-workshop)  | Containerd Workshop to install it from scratch |
+| [distroless-containers](https://github.com/sergioarmgpl/distroless-containers)  | Code examples to create distroless containers in Python, Rust and Go |
+| [linkerd-workshop](https://github.com/sergioarmgpl/linkerd-workshop)  | Linkerd Workshop |
+| [jenkins-helm](https://github.com/sergioarmgpl/jenkins-helm)  | Jenkins and Helm for CI/CD pipelines on GPC and Azure, check the branches |
+| [jenkins-argocd](https://github.com/sergioarmgpl/jenkins-argocd)  | Jenkins, Helm and ArgoCD for CI/CD pipelines on GPC and Azure, check the branches |
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
