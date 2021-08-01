@@ -9,6 +9,12 @@
 ✉️ &nbsp;You can shoot me an email at sergioarm.gpl@gmail.com! It will be a pleasure to talk with you!.\
 📄 &nbsp;If you want to check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
 
+### CNCF and Cloud Native stuff 😎
+🧞‍♂️ &nbsp;I am currently a [Linkerd Hero](https://linkerd.io/community/heroes).\
+🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group.\
+🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
+🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU 2020-2021 and in the ServiceMeshConEU 2021.\
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
