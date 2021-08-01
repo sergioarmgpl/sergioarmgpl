@@ -1,6 +1,4 @@
-
-
-### Hi there 👋
+### I little bit about me 🙃
 
 💡 &nbsp;I like to explore new cloud native technologies in special the CNCF Projects.\
 👯 &nbsp;I’m looking to collaborate with students to get them involved into the CNCF Ecosystem.\
@@ -10,7 +8,6 @@
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/sergioarmgpl/meeting) to talk with me.\
 ✉️ &nbsp;You can shoot me an email at sergioarm.gpl@gmail.com! It will be a pleasure to talk with you!.\
 📄 &nbsp;If you want to check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
