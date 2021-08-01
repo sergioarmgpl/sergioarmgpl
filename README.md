@@ -15,6 +15,17 @@
 🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
 🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8).
 
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
 ### Repos that you can check and contribute on my account 🧞‍
 
 | Repo  | Description |
@@ -39,19 +50,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergioarmgpl&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
 
 <!--
 **sergioarmgpl/sergioarmgpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
