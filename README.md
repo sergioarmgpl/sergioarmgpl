@@ -22,11 +22,13 @@
 📄 &nbsp;If you want to check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
 
 ### CNCF and Cloud Native stuff 😎
-🧞‍♂️ &nbsp;I am currently a [Linkerd Hero](https://linkerd.io/community/heroes).\
-🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group.\
-🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
-🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8).
-🤩 &nbsp;I am contributing with [Linkerd](https://linkerd.io),[Chaos Mesh](https://chaos-mesh.org), [Curiefense](https://curiefense.io) and [CNCFStudents](https://twitter.com/CNCFStudents)
+🧞‍♂️ &nbsp;I am currently a [Linkerd Hero](https://linkerd.io/community/heroes)\
+🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group\
+🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November\
+🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8)\
+🧞‍♀️ &nbsp;I am contributing with [Linkerd](https://linkerd.io),[Chaos Mesh](https://chaos-mesh.org) and [Curiefense](https://curiefense.io)\
+🧜🏽‍♂️ &nbsp;I am trying to break the gap for Latin American people into the CNCF ecosystem, check our [slack at CNCF](https://slack.cncf.io/), #cloud-native-latam\
+
 
 ### Repos that you can check and contribute on my account 🧞‍
 
