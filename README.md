@@ -28,7 +28,7 @@
 🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November\
 🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8)\
 🧞‍♀️ &nbsp;I am contributing with [Linkerd](https://linkerd.io),[Chaos Mesh](https://chaos-mesh.org) and [Curiefense](https://curiefense.io)\
-🧜🏽‍♂️ &nbsp;I am trying to break the gap for Latin American people into the CNCF ecosystem, check our [slack at CNCF](https://slack.cncf.io/), #cloud-native-latam\
+🧜🏽‍♂️ &nbsp;I am trying to break the gap for Latin American people into the CNCF ecosystem, check our [slack at CNCF](https://slack.cncf.io/), #cloud-native-latam
 
 
 ### Repos that you can check and contribute on my account 🧞‍
