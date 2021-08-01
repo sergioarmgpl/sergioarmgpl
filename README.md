@@ -23,8 +23,7 @@
 | [operating-systems-usac-course](https://github.com/sergioarmgpl/operating-systems-usac-course)  | Operating System Course Content, Projects, Code Snippets and a lot of Kubernetes, Linkerd, Chaos Mesh, gRPC, Kafka, and other tutorials  |
 | [linkerd-openfaas-kubeconeu-2020](https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020)  | Code and Slides from KubeConEU 2021 about using Kubernetes, OpenFaaS and Linkerd for canary deployments |
 | [mlops-argo-k3s](https://github.com/sergioarmgpl/mlops-argo-k3s)  | ode and Slides from KubeConEU 2021 about using K3s and Argo for MLOps and sandbox environments |
-| [jaeger1.16-python-flask-envoy-k8s](https://github.com/sergioarmgpl/jaeger1.16-python-flask-envoy-k8s
-)  | Workshop to use Jaeger for Tracing using Python, OpenTelemetry, Prometheus on Kubernetes |
+| [jaeger1.16-python-flask-envoy-k8s](https://github.com/sergioarmgpl/jaeger1.16-python-flask-envoy-k8s)  | Workshop to use Jaeger for Tracing using Python, OpenTelemetry, Prometheus on Kubernetes |
 | [taller-docker](https://github.com/sergioarmgpl/taller-docker)  | Docker Workshop in spanish and english |
 | [containerd-workshop](https://github.com/sergioarmgpl/containerd-workshop)  | Containerd Workshop to install it from scratch |
 | [distroless-containers](https://github.com/sergioarmgpl/distroless-containers)  | Code examples to create distroless containers in Python, Rust and Go |
