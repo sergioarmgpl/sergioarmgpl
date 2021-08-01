@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sergio Méndez </h1>
 <h3 align="center">DevOps Engineer at Yalo | Linkerd Hero | Cloud Native Professor </h3>
 
-### 🤝🏻 &nbsp;Connect with Me
+### Connect with Me 😎
 <p align="center">
 <a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
