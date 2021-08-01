@@ -20,7 +20,7 @@
 ✍️ &nbsp;In my free time, I used to take pictures, play the guitar and watch anime and videos on Youtube.\
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/sergioarmgpl/meeting) to talk with me.\
 ✉️ &nbsp;You can shoot me an email at sergioarm.gpl@gmail.com! It will be a pleasure to talk with you!.\
-📄 &nbsp;If you want to check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
+📄 &nbsp;Check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
 
 ### CNCF and Cloud Native stuff 😎
 🧞‍♂️ &nbsp;I am currently a [Linkerd Hero](https://linkerd.io/community/heroes)\
