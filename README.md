@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying for my CKAD(Kubernetes Certified Application Developer).\
 🌱 &nbsp;I'm on track for learning more about service meshes, chaos engineering and MLOps.\
 ✍️ &nbsp;In my free time, I used to take pictures, play the guitar and watch anime and videos on Youtube.\
-💬 &nbsp;Feel free to pick a slot on [Calendly](https://calendly.com/sergioarmgpl/meeting) to talk with me.\
+💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/sergioarmgpl/meeting) to talk with me.\
 ✉️ &nbsp;You can shoot me an email at sergioarm.gpl@gmail.com! It will be a pleasure to talk with you!.\
 📄 &nbsp;If you want to check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
 
