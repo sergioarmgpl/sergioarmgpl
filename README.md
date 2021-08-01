@@ -13,7 +13,7 @@
 🧞‍♂️ &nbsp;I am currently a [Linkerd Hero](https://linkerd.io/community/heroes).\
 🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group.\
 🧞 &nbsp;I am organizing the [Guatemala Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days/issues/408) this is in progress, It will be in November.\
-🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU 2020-2021 and in the ServiceMeshConEU 2021.
+🧚‍♀️ &nbsp;I have been participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
