@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
