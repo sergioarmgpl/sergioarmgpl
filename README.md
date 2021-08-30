@@ -14,8 +14,8 @@
 ### I little bit about me 🙃
 
 💡 &nbsp;I like to explore new cloud native technologies in special the CNCF Projects.\
-👯 &nbsp;I’m looking to collaborate with students to get them involved into the CNCF Ecosystem.\
-🎓 &nbsp;I'm currently studying for my CKAD(Kubernetes Certified Application Developer).\
+👯 &nbsp;I’m looking to collaborate with students to get them involved into the CNCF Ecosystem with CNCF Students Group.\
+🎓 &nbsp;I'm currently studying for my CKS(Certified Kubernetes Security).\
 🌱 &nbsp;I'm on track for learning more about service meshes, chaos engineering and MLOps.\
 ✍️ &nbsp;In my free time, I used to take pictures, play the guitar and watch anime and videos on Youtube.\
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/sergioarmgpl/meeting) to talk with me.\
