@@ -37,6 +37,7 @@
 
 | Repo  | Description |
 | ------------- | ------------- |
+| [ArgoCon2021-K3s-edge](https://github.com/sergioarmgpl/argocon2021)  | Edge solution with K3s and Argo that runs on ARM devices |
 | [DevCon2021ChaosMeshLinkerdIntro](https://github.com/sergioarmgpl/DevCon2021ChaosMeshLinkerdIntro)  | Linkerd + Chaos Mesh Intro, DevCon2021, China |
 | [operating-systems-usac-course](https://github.com/sergioarmgpl/operating-systems-usac-course)  | Operating System Course Content, Projects, Code Snippets and a lot of Kubernetes, Linkerd, Chaos Mesh, gRPC, Kafka, and other tutorials  |
 | [linkerd-openfaas-kubeconeu-2020](https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020)  | Code and Slides from KubeConEU 2021 about using Kubernetes, OpenFaaS and Linkerd for canary deployments |
