@@ -26,6 +26,7 @@
 ### CNCF and Cloud Native stuff 😎
 🧞‍♂️ &nbsp;I am currently a [Linkerd Ambassador](https://linkerd.io/community/ambassadors)\
 🧜🏽‍♂️ &nbsp;I am currently a [CNCF Ambassador](https://www.cncf.io/people/ambassadors)\
+🧜🏽‍♂️ &nbsp;I am currently an ARM Ambassador\
 🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group\
 🧞 &nbsp;Organizer of [Guatemala Kubernetes Community Days](https://community.cncf.io/kcd-guatemala) in 2021/2023 and coming 2024\
 🧚‍♀️ &nbsp;I have participated as a speaker in KubeConEU [2020](https://www.youtube.com/watch?v=bNoeI_Wi-R0)-[2021](https://www.youtube.com/watch?v=oMaJhpxd4FE) and in the [ServiceMeshConEU 2021](https://www.youtube.com/watch?v=vGVtnP8gOl8)\
