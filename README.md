@@ -24,7 +24,6 @@
 📄 &nbsp;Check my [Résumé](https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/edit?usp=sharing) for more details about me.
 
 ### CNCF and Cloud Native stuff 😎
-🧞‍♂️ &nbsp;I am currently a [Linkerd Ambassador](https://linkerd.io/community/ambassadors)\
 🧜🏽‍♂️ &nbsp;I am currently a [CNCF Ambassador](https://www.cncf.io/people/ambassadors)\
 🧜🏽‍♂️ &nbsp;I am currently an ARM Ambassador\
 🧜‍♀️ &nbsp;I am the organizer of [Guatemala Cloud Native Community Group](https://community.cncf.io/cloud-nativegt/) that is an official CNCF Group\
