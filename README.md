@@ -4,8 +4,8 @@
 ### Connect with Me 😎
 <p align="center">
 <a href="https://sergiops.xyz"><img src="https://img.shields.io/badge/-sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://timeline.sergiops.xyz"><img src="https://img.shields.io/badge/-CNCF%20Timeline-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://blog.sergiops.xyz"><img src="https://img.shields.io/badge/-blog.sergiops.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://curzona.com"><img src="https://img.shields.io/badge/-Free%20Courses-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://https://dev.to/sergioarmgpl"><img src="https://img.shields.io/badge/-Blog%20Dev.to%20Sergio%20Méndez-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sergioarmgpl"><img src="https://img.shields.io/badge/-Sergio%20Méndez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.twitter.com/sergioarmgpl"><img src="https://img.shields.io/badge/-@sergioarmgpl-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:sergioarm.gpl@gmail.com"><img src="https://img.shields.io/badge/-sergioarm.gpl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
